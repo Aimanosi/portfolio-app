@@ -63,7 +63,7 @@ const Navbar = () => {
                 </Link>
               </li>
               <li class="nav-item">
-                <Link to={cv}>
+                <Link to={cv} target="_blank">
                   <button
                     type="button"
                     class="btn btn-outline-dark lg py-2 px-3"
