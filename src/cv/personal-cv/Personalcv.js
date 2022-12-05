@@ -45,13 +45,9 @@ const Personalcv = () => {
           </div>
           <h4>BIO</h4>
           <p>
-            I am a positive, enthusiastic and competent Web Developer who, over
-            some months, has built up a diverse range of skills, qualities and
-            attributes that guarantee I will perform highly in this role. I have
-            experience working both alone and as part of a team on often
-            time-sensitive, challenging web development projects that require
-            outstanding creative and technical capabilities and the ability to
-            ensure all work is optimized across a wide range of platforms.
+            Web developer student with experience in Html, Css, JavaScript,
+            React and Node.js. Passionate about web development and excited to
+            learn more, Skilled in problem solving and working independently.
           </p>
         </div>
         <div className="second-side">
@@ -87,18 +83,18 @@ const Personalcv = () => {
               </div>
               <div className="cvdescription">
                 <div className="workplace">
-                  <h5> Web developement intern</h5>
+                  <h5> Web developement student</h5>
                   <h6>Tech Accent Creatives</h6>
                 </div>
 
                 <p>July 29 - till date</p>
                 <p>
-                  Participate in conception, design, development, implementation
-                  and deployment of web-based user interface systems, Create
-                  cross-browser, fully functional web pages using HTML and CSS
-                  while strictly adhering to accessibility and W3C web
-                  standards, Develop web applications using JavaScript, HTML and
-                  CSS.
+                  Participate in the design, development and deployment of
+                  web-based user interfaces, Create cross-browser, fully
+                  functional web pages using HTML and CSS and React.js, Created
+                  landing pages, dashboards, and online applications using
+                  JavaScript, HTML, and CSS, built server side applications
+                  using Node.js, MongoDB and Mongoose
                 </p>
 
                 <div className="workplace">

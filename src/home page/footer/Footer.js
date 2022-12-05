@@ -13,7 +13,7 @@ const Footer = () => {
         <img src={email} alt="" srcset="" />
         <p>nasaces360@gmail.com</p>
       </div>
-      <div className="p-info">
+      <div className="p-info ">
         <h6 className="contact">Contact</h6>
         <img src={phone} alt="" srcset="" />
         <p>+234-9082-7160-40</p>

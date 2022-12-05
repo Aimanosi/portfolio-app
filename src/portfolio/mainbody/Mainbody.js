@@ -5,6 +5,8 @@ import desktop2 from "../../images/desktop2.jpg";
 import desktop3 from "../../images/desktop3.jpg";
 import desktop4 from "../../images/desktop4.jpg";
 import guess from "../../images/guessmynumber.PNG";
+import audiophile from "../../images/audiophile.png";
+import port from "../../images/port.PNG";
 
 const mainbody = () => {
   return (
@@ -16,6 +18,24 @@ const mainbody = () => {
       <div className="personal">
         <section className="first-cards">
           <div class="card">
+            <img src={audiophile} class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5>AUDIOPHILE APP</h5>
+              <p class="card-text">
+                {" "}
+                <i> E-commerce</i>
+              </p>
+              <p>HTML, CSS, React.js, </p>
+              <a
+                href="https://audiophile-project-henna.vercel.app/"
+                target="_blank"
+              >
+                Visit website
+              </a>
+            </div>
+          </div>
+
+          <div class="card">
             <img src={desktop} class="card-img-top" alt="..." />
             <div class="card-body">
               <h5>ROOM PROJECT</h5>
@@ -25,6 +45,24 @@ const mainbody = () => {
               </p>
               <p>HTML, CSS, JavaScript</p>
               <a href="https://room-web-aimanosi.vercel.app/" target="_blank">
+                Visit website
+              </a>
+            </div>
+          </div>
+
+          <div class="card">
+            <img src={port} class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5>MY PORTFOLIO</h5>
+              <p class="card-text">
+                {" "}
+                <i> Personal</i>
+              </p>
+              <p>HTML, CSS, JavaScript</p>
+              <a
+                href="https://portfolio-app-ecru-phi.vercel.app/"
+                target="_blank"
+              >
                 Visit website
               </a>
             </div>

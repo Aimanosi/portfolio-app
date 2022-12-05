@@ -1,11 +1,12 @@
 import React from "react";
-import mainphoto from "../../images/img1.png";
+import mainphoto from "../../images/newimg.png";
 import "../mid-session/Mid.css";
 import twitter from "../../images/twitter.svg";
 import linkedin from "../../images/linkedin.svg";
 import github from "../../images/github.svg";
 import mail from "../../images/envelope.svg";
 import cv from "../../images/cv-Nasiruhammed.pdf";
+import bg from "../../images/bg.jpg";
 
 const Mid = () => {
   return (
@@ -13,9 +14,9 @@ const Mid = () => {
       <div className="midtext">
         <p className="hello">Hello World, I am</p>
         <h1>
-          Aimanos<span className="a">i</span>
+          Nasir<span className="a">u</span>
         </h1>
-        <p> Web developer | Designer | Freelancer</p>
+        <p> Web developer | Designer</p>
         <div className="tags">
           <a href="mailto:nasaces360@gmail.com" target="_blank">
             <img src={mail} alt="" srcset="" />
@@ -34,7 +35,7 @@ const Mid = () => {
           </a>
         </div>
         <a href={cv}>
-          <button type="button" class="btn btn-outline-dark lg py-3 px-5">
+          <button type="button" class="btn btn-outline-dark lg py-3 px-3">
             Download CV
           </button>
         </a>

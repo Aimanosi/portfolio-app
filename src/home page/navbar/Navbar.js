@@ -32,7 +32,7 @@ const Navbar = () => {
             <span class="navbar-toggler-icon"></span>
           </a>
           <div
-            class="collapse navbar-collapse justify-content-end me-3 "
+            class="collapse navbar-collapse justify-content-end "
             id="navbarNav"
           >
             <ul class="navbar-nav ">
@@ -66,7 +66,7 @@ const Navbar = () => {
                 <Link to={cv}>
                   <button
                     type="button"
-                    class="btn btn-outline-dark lg py-3 px-4"
+                    class="btn btn-outline-dark lg py-2 px-3"
                   >
                     Download CV
                   </button>
