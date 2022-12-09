@@ -102,7 +102,7 @@ const Personalcv = () => {
                   <h6>Ry Projects</h6>
                 </div>
 
-                <p>Jan 2018 - Dec 2022</p>
+                <p>Jan 2018 - April 2022</p>
                 <p>
                   Preparation or architectural drawings, working drawings and
                   presentation drawings, Assisted in initial project research
@@ -219,16 +219,7 @@ const Personalcv = () => {
                     }}
                   />
                 </p>
-                <p>
-                  jQuery{" "}
-                  <DiJqueryLogo
-                    style={{
-                      color: "black",
-                      width: "100px",
-                      fontSize: "4rem",
-                    }}
-                  />
-                </p>
+
                 <p>
                   Node js{" "}
                   <FaNodeJs
