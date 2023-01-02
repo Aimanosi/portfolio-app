@@ -63,12 +63,12 @@ const Personalcv = () => {
               <div className="cvdescription">
                 <h5>Tech Accent Creatives</h5>
                 <p>
-                  lagos, Nigeria <br /> Full stack web development
+                  lagos, Nigeria <br /> Full stack web development, 2022
                 </p>
 
                 <h5>Bells University of Technology</h5>
                 <p>
-                  Ogun, Nigeria <br /> Bsc. Architecture, 2021
+                  Ogun, Nigeria <br /> Bsc. Architecture, 2022
                 </p>
 
                 <h5>Federal polytechnic Auchi</h5>
@@ -87,7 +87,7 @@ const Personalcv = () => {
                   <h6>Tech Accent Creatives</h6>
                 </div>
 
-                <p>July 29 - till date</p>
+                <p>July 2022 - Dec2022</p>
                 <p>
                   Participate in the design, development and deployment of
                   web-based user interfaces, Create cross-browser, fully
